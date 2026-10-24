@@ -1,0 +1,9 @@
+{
+  "name": "Salama Shule",
+  "short_name": "Salama Shule",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#1e3a8a",
+  "icons": []
+}
